@@ -2,7 +2,9 @@
 
 » O projeto é uma landing page minimalista de uma marca famosa, que comercializa carteiras de couro legítimo.
 
-» Para a construção do projeto foi usado o framework tailwindcss para estilização.
+» O Projeto tem algumas transições bem interessantes dos elementos, e para estilização do projeto foi usado o framework Tailwindcss.
 
 » Deploy do projeto no servidor Netlify.
-Link: 
+
+Link: https://webminimalist.netlify.app
+
